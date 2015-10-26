@@ -11,3 +11,4 @@ gem "sdoc", "~> 0.4.1", {:group=>:doc}
 gem "byebug", "~> 6.0.2", {:group=>[:development, :test]}
 gem "web-console", "~> 2.2.1", {:group=>[:development, :test]}
 gem "spring", "~> 1.4.0", {:group=>[:development, :test]}
+gem "dotenv-rails", "~> 2.0.2", {:groups=>[:development, :test]}
